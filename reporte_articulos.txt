@@ -1,0 +1,5 @@
+ID: 1, Nombre: Hola, Descripción: Prueba, Precio: 10.00
+ID: 2, Nombre: caperta de sergio, Descripción: SErgio ticona, Precio: 100.00
+ID: 3, Nombre: tk, Descripción: ejercicio 7, Precio: 900.00
+ID: 4, Nombre: Ejercicio 7, Descripción: Este es el ejercicio 7, Precio: 80.00
+ID: 5, Nombre: ejer7, Descripción: hollaaa, Precio: 50.00
